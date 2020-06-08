@@ -4,7 +4,7 @@ Download the files
 
 data.csv is the csv file used for searching
 
-when you run the keywordsearch.py file , it will ask you to enter a keyword to search, and after entering it , you will all the records with the keyword present.
+when you run the keywordsearch.py file , it will ask you to enter a keyword to search, and after entering it , you will retrive all the records with the keyword present.
 
 The data.csv file is stored in mongodb atlas to GET the records and POST new things.
 
